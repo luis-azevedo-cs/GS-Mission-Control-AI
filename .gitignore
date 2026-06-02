@@ -1,0 +1,17 @@
+.env
+
+# Pastas de cache e temporárias do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
